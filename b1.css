@@ -1,0 +1,35 @@
+body{
+    color: darkblue;
+    background-color: darkgray;
+    font-size: medium;
+    font-style: oblique;
+    font-weight: bold;
+
+    padding: 45px;
+    text-align:justify;
+    backdrop-filter:calc();
+    border: rgb(6, 247, 26);
+    border-radius: 14px;
+ text-align: inline block;
+margin: auto;
+text-decoration: blue;
+background-image: img/mzlyqxakvecpng;
+background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+                  url("../../media/examples/lizard.png");
+                  background-image:
+                  linear-gradient(to bottom, rgba(255,255,0,0.5), rgba(0,0,255,0.5)),
+                  url('catfront.png');
+                
+          
+}
+button{
+    border: crimson;
+    border-radius: 8px;
+}
+p{
+    color: rgb(11, 117, 59);
+    background-color: navy;
+    border-radius: 13px;
+    margin:auto;
+    padding:12px;
+}
